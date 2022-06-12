@@ -98,7 +98,7 @@
 	      <id>nexus</id>
 	      <name>ACADA Learning Releases Nexus Repository</name>
 	      <url>http://3.94.210.101:8081/repository/rbc-app-release/
-	    </repository>
+	    </releaserepository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
