@@ -119,6 +119,9 @@
 				<configuration>
 					<source>${jdk.version}</source>
 					<target>${jdk.version}</target>
+					
+					<username>lindaukwe</username>
+					<password>admin123</password>
 				</configuration>
 			</plugin>
 
